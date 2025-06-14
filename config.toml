@@ -1,4 +1,5 @@
 baseURL = "https://blog-grupo.vercel.app/"
-languageCode = "es-mx"
-title = "Blog del Grupo"
+languageCode = "en-us"
+title = "Blog Grupal Hugo"
 theme = "ananke"
+enableRobotsTXT = true
