@@ -1,0 +1,4 @@
+baseURL = "https://blog-grupo.vercel.app/"
+languageCode = "es-mx"
+title = "Blog del Grupo"
+theme = "ananke"
